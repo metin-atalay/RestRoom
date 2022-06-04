@@ -1,6 +1,6 @@
 # Rest Room
 
-Learn to build Unidirectional Data Flow Apps Using SwiftUI for iOS 14
+Learn to build Unidirectional Data Flow Apps Using SwiftUI for iOS 
 
 
 # About Redux
